@@ -4,6 +4,22 @@ A new Flutter project.
 
 ## Getting Started
 
+## 📱 Features
+
+- Basic UI layout with `Scaffold`, `AppBar`, and `Container`
+- Navigation from Home to Profile screen
+- Loading indicator before displaying profile info
+- Reusable `ProfileInfoCard` widget
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Alan-raju7071/profile_app.git
+cd flutter_profile_app
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
